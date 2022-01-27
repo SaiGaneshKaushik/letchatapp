@@ -1,0 +1,28 @@
+body
+{
+    background: linear-gradient(red, orange);
+}
+#login_button
+{
+   width: 5%;
+}
+#user_name
+{
+    width: 30%;
+}
+.container
+{
+    padding-top: 100px;
+}
+#btn
+{
+    margin-left: 90%;
+    margin-bottom: 30px;
+}
+
+#output
+{
+	padding: 10px; 
+	width:80%;background: lightcyan;
+	border-radius: 15px;
+}
